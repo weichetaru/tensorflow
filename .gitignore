@@ -1,0 +1,5 @@
+*.gz
+*.pickle
+notMNIST_large/
+notMNIST_small/
+.ipynb_checkpoints/
